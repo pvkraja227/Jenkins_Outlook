@@ -2,6 +2,8 @@ take ec2 (t2.med)
 sudo apt update
 install java17
 install jenkins
+
+check: outlook.com/settings/email/forwarding and IMAP/make sure POP and IMAP are enabled
 https://account.microsoft.com/
 security/turn on 2 step verification/create new app-pwd
 get app-pwd (copy)
@@ -24,3 +26,4 @@ Reply-To Address: pvk23.ra@outlook.com
 Apply
 
 new item/100/pipeline
+buildnow
