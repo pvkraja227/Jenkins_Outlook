@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=HSu3PIilEV8
+
 take ec2 (t2.med)
 sudo apt update
 install java17
