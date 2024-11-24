@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=HSu3PIilEV8
+Real-Time Jenkins Mail Configuration For Outlook | Jenkins Send mail Notifications to Outlook
 
 take ec2 (t2.med)
 sudo apt update
